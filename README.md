@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tharusha Sachindra from Sri Lanka 🇱🇰
 - 👀 I’m interested in Learning, also drones, and robots
-- 🌱 I’m currently learning python and assembly. 🐍
+- 🌱 I’m currently learning python,C++. 🐍
 - 💞️ I’m looking to collaborate on any type of research so I can learn more(astrophysics or robotics) 🚀🔭🛰️
 - 📫 How to reach me you can reach me through my github or simply send a email to sachendratharusha@gmail.com 
 
